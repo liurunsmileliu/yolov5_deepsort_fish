@@ -1,0 +1,3 @@
+yolo_weights: yolov5/runs/train/exp11/weights/best.pt
+deep_sort_weights: deep_sort_pytorch/deep_sort/deep/checkpoint/ckpt.t7
+detect_source: video/Oculus_20210810_152737.mp4

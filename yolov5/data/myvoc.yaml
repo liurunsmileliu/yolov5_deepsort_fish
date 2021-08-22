@@ -1,0 +1,10 @@
+train: VOCData/train.txt
+val: VOCData/val.txt
+
+# number of classes
+nc: 1
+
+# class names
+#names: ["face", "normal", "phone", "write", "smoke", "eat", "computer", "sleep"]
+names: ["fish"]
+

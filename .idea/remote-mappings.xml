@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@a84641e9-56ef-4261-be1f-edd59a4687b4" />
+        <remote-mappings server-id="python@sftp://lrz@10.10.4.115:22/home/lrz/anaconda3/envs/yolo5sort/bin/python3.7">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/lrz/Documents/Codes/yolov5_deepsort_test" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
